@@ -1,0 +1,11 @@
+public class For {
+    public static void main(String[] args) {
+        int v = 0;
+        int n = 100;
+
+        for(int i = 0; i < n; i++){
+            v = 5;
+            System.out.println("Value = " + v);
+        }
+     }
+}
